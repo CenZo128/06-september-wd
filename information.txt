@@ -1,0 +1,25 @@
+WEB DESIGN
+
+12x Pertemuan = @ 3jam
+
+1.5jam lecture + 1.5jam latihan
+
+Pertemuan 1 : Git, HTML + CSS Dasar
+Pertemuan 2 : Website 2 kolom
+Pertemuan 3 : Concept CSS : Flex, Position, Table, Form
+Pertemuan 4 : Study Case
+Pertemuan 5 : Bootstrap 5.0 (CSS Framework)
+Pertemuan 6 : Multiple Page Bootstrap
+Pertemuan 7 : Study Case
+Pertemuan 8,9 : Javascript
+Pertemuan 10,11 : jQuery
+Pertemuan 12 : Study Case
+
+Certificate :
+1. Sertifikat Kehadiran
+- Min 80% dr total pertemuan
+
+2. Sertifikat Nilai
+- LMS (Web Portal) : Algoritma
+- Ujian Teori
+- Praktek (buat project)
