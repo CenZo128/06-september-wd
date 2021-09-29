@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.container {
+    width: 720px;
+    margin: 16px auto;
+    border: 1px solid #ccc;
+    padding: 16px;
+    box-shadow: 1px 1px 5px 5px #ccc;
+    border-radius: 8px;
+    border-top: 5px solid #1dd1a1;
+    overflow:hidden;
+    height: 55vh;
+}
+
+.container-left {
+    width: 50%;
+    float: left;
+    padding: 8px;
+}
+.container-right {
+   width: 50%;
+   float: right; 
+   padding: 8px;
+   height: 100%;
+}
+table {
+    width: 100%;
+}
+
+th,td {
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: darkseagreen;
+}
+
+tr:hover {
+    background-color: antiquewhite;
+}
+
+.register {
+    width: 100%;
+    text-align: center;
+    font-variant: small-caps;
+    margin-bottom: 16px;
+    color: #10ac84;
+}
+
+.form-data {
+    width: 100%;
+    margin-top: 16px;
+}
+
+.form-item {
+    display: flex;
+    flex-direction: column;
+    margin: 16px 0;
+}
+
+.form-item input {
+    padding: 5px;
+}
+
+.form-submit {
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+.form-submit input {
+    padding: 8px;
+    background-color: #1dd1a1;
+    border: none;
+    width: 100%;
+}
+
+.form-submit input:hover {
+    background-color: #10ac84;
+}
+
+.table-text {
+    margin-top: 16px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+
+.table-content {
+    width: 100%;
+    max-height: 100%;
+    overflow-y: scroll;
+}
