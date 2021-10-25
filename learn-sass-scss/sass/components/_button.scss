@@ -1,0 +1,11 @@
+.btn {
+    padding: 0.5rem 1rem;
+
+    &-primary {
+        background-color: $primary-color;
+
+        &:hover {
+            background-color: $primary-color-bold;
+        }
+    }
+}

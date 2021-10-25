@@ -1,0 +1,12 @@
+// SCSS = Sassy CSS
+@import './variables/variables.scss';
+@import './components/button.scss';
+@import './utilities/mixins.scss';
+
+* {
+    @include first_reset;
+}
+
+:root {
+    font-size: $main-font-size;
+}
