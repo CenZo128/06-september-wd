@@ -1,11 +1,19 @@
 .btn {
   padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  border: none;
 }
 .btn-primary {
   background-color: #2ecc71;
 }
 .btn-primary:hover {
   background-color: #27ae60;
+}
+.btn-blue {
+  background-color: #3498db;
+}
+.btn-blue:hover {
+  background-color: #2980b9;
 }
 
 * {
@@ -16,6 +24,17 @@
 
 :root {
   font-size: 12px;
+}
+
+.container {
+  width: 100%;
+  margin: auto;
+}
+.container h1 {
+  color: #2ecc71;
+}
+.container p {
+  font-style: italic;
 }
 
 /*# sourceMappingURL=style.css.map */

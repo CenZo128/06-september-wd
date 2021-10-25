@@ -10,3 +10,15 @@
 :root {
     font-size: $main-font-size;
 }
+
+.container {
+    width: 100%;
+    margin: auto;
+
+    h1 {
+        color: $primary-color;
+    }
+    p {
+        font-style: italic;
+    }
+}
